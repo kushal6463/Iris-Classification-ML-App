@@ -26,3 +26,8 @@ streamlit run app.py
 ```
 
 This will launch the application in your web browser.
+
+
+### Screenshot
+
+![App Screenshot](images/image.png)
